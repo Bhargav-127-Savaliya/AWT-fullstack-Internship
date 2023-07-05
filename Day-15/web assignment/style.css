@@ -17,6 +17,12 @@ body {
 	height: 600px;
 	z-index: -11;
 }
+.wavehero{
+	position: fixed;
+	top: 0;
+	right: 0;
+	z-index: -11;
+}
 
 .home {
 	width: 98vw;
